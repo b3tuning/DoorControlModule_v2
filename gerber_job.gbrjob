@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-05-14T18:42:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "NewDoor"
+        },
+        "Owner": "James Hildebrand <b3tuning@gmail.com>",
+        "Size": {
+            "X": 126.9546,
+            "Y": 61.8238
+        }
+    }
+}
